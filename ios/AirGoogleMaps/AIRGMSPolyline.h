@@ -1,9 +1,3 @@
-//
-//  AIRGMSPolyline.h
-//  AirMaps
-//
-//  Created by Guilherme Pontes 04/05/2017.
-//
 
 #ifdef HAVE_GOOGLE_MAPS
 
