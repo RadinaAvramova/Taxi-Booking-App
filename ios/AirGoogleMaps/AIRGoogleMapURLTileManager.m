@@ -1,7 +1,3 @@
-//
-//  AIRGoogleMapURLTileManager.m
-//  Created by Nick Italiano on 11/5/16.
-//
 
 #ifdef HAVE_GOOGLE_MAPS
 
