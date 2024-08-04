@@ -1,8 +1,3 @@
-//
-//  AIRGoogleMapHeatmapManager.m
-//
-//  Created by David Cako on 29 April 2018.
-//
 
 #import "AIRGoogleMapHeatmapManager.h"
 #import "AIRGoogleMapHeatmap.h"
