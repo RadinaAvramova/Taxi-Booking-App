@@ -1,8 +1,4 @@
-//
-//  AIRGoogleMapOverlay.h
-//
-//  Created by Taro Matsuzawa on 5/3/17.
-//
+
 
 #ifdef HAVE_GOOGLE_MAPS
 
