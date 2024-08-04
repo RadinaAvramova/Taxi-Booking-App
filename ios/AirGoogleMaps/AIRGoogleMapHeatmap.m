@@ -1,8 +1,4 @@
-//
-//  AIRGoogleMapHeatmap.m
-//
-//  Created by David Cako on 29 April 2018.
-//
+
 #import <UIKit/UIKit.h>
 #import "AIRGoogleMapHeatmap.h"
 #import <GoogleMaps/GoogleMaps.h>
