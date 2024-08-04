@@ -1,7 +1,4 @@
-//
-//  AIRGoogleMapOverlay.m
-//  Created by Nick Italiano on 3/5/17.
-//
+
 
 #ifdef HAVE_GOOGLE_MAPS
 
